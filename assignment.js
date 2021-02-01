@@ -1,4 +1,5 @@
-// 
+// https://github.com/Arman37-del/third-assignment
+
 
 
 
@@ -39,6 +40,7 @@ function megaFriend(name) {
         var element = name[i];
         if (element > max) {
             max = element;
+            latter = name[4, 5, 6];
         }
     }
     return max;
