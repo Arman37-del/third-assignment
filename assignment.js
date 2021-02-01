@@ -1,8 +1,3 @@
-// https://github.com/Arman37-del/third-assignment
-
-
-
-
 function kilometerToMeter(kilometer) {
     var meter = kilometer / 1000;
     return meter;
